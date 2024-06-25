@@ -1,6 +1,6 @@
 # Apple Website
 
-Live Link - shashank-apple.netlify.app
+Live Link - <a href="shashank-apple.netlify.app">Click here</a>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
